@@ -72,5 +72,5 @@ class Test(unittest.TestCase):
             msg='should count multiple spaces as one'
         )
 
-if __name__ = '__main__':
+if __name__ == '__main__':
     unittest.main()
